@@ -33,7 +33,9 @@
 
 - **Languages**:
     
-    ![C#](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C#](https://img.shields.io/badge/Csharp-blue?style=for-the-badge&logo=csharp&color=purple&logoColor=white)
+    ![DotNet](https://img.shields.io/badge/DotNet-blue?style=for-the-badge&logo=dotnet&color=purple&logoColor=white)
+    ![Xamarin](https://img.shields.io/badge/Xamarin-blue?style=for-the-badge&logo=xamarin&color=purple&logoColor=green)
     
 
 <br>   
